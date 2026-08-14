@@ -164,27 +164,6 @@ Click **View Certificate** to open the corresponding certificate image.
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meganathank-dev&show_icons=true&theme=dark&hide_border=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meganathank-dev&layout=compact&theme=dark&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=meganathank-dev&theme=dark&hide_border=true" />
-</p>
-
----
-
-# 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meganathank-dev/meganathank-dev/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
