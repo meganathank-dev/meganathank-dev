@@ -2,23 +2,29 @@
 
 # 👋 Hi, I'm Meganathan
 
-### CSE Student | MERN Stack Developer
+### CSE Student · MERN Stack Developer
 
-<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Building+FlowForge+AI;Learning+and+Building+Real-World+Applications">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Building+FlowForge+AI;Learning+and+Building+Real-World+Applications" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&height=50&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Building+FlowForge+AI;Learning+and+Building+Real-World+Applications">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&height=50&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Building+FlowForge+AI;Learning+and+Building+Real-World+Applications" alt="Typing Animation" />
 </a>
 
 <br>
 
 <a href="https://meganathank.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://linkedin.com/in/meganathan-k">
-  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
+&nbsp;
 <a href="mailto:meganathan.k.2027@gmail.com">
-  <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335">
+<img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=meganathank-dev&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -26,26 +32,29 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science and Engineering student focused on becoming a **Full Stack Developer**.
-I enjoy building practical web applications and continuously improving my development and problem-solving skills.
+I'm a **Computer Science & Engineering student** at **The Kavery Engineering College (2023–2027)**, focused on becoming a Full Stack Developer.
 
-🎓 **B.E. Computer Science & Engineering** · The Kavery Engineering College · **2023–2027**
+I enjoy building practical web applications, exploring modern technologies, and continuously improving my development and problem-solving skills.
 
-🌱 Currently strengthening my skills in **JavaScript, React, Node.js, Express.js and MongoDB**.
+> 🌱 Currently strengthening my skills in **JavaScript, React, Node.js, Express.js & MongoDB**.
 
 ---
 
 ## 🚀 Currently Building
 
-### `FlowForge AI`
+<div align="center">
 
-> An AI-powered project management platform focused on intelligent task assignment, workflow automation, employee management, performance analytics and AI-driven recommendations.
+### ⚡ FlowForge AI
 
-**Status:** 🟢 Actively developing & improving
+**AI-powered project management platform**
 
-<a href="https://github.com/meganathank-dev/flowforge-ai">
-  <img src="https://img.shields.io/badge/View_Source-58A6FF?style=for-the-badge&logo=github&logoColor=white">
-</a>
+Intelligent task assignment · Workflow automation · Employee management · Performance analytics · AI-driven recommendations
+
+<br>
+
+`🟢 Actively Developing & Improving`
+
+</div>
 
 ---
 
@@ -53,23 +62,11 @@ I enjoy building practical web applications and continuously improving my develo
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,figma,vercel,render&perline=8" alt="Technology Stack" />
 
-<img src="https://skillicons.dev/icons?i=python,javascript" />
+<br><br>
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
-
-**SQL** · **Render**
+`SQL` · `REST APIs` · `Full Stack Development` · `UI/UX`
 
 </div>
 
@@ -79,13 +76,61 @@ I enjoy building practical web applications and continuously improving my develo
 
 <div align="center">
 
-| Project                      | Description                            | Links                                                                                                                             |
-| ---------------------------- | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 🚀 **FlowForge AI**          | AI-powered project management platform | [Source](https://github.com/meganathank-dev/flowforge-ai)                                                                         |
-| 🎓 **College Result Portal** | MERN-based result publishing system    | [Source](https://github.com/meganathank-dev/college-result-portal) · [Live](https://college-result-portal-bay.vercel.app)         |
-| 🌐 **Personal Portfolio**    | Responsive personal portfolio          | [Source](https://github.com/meganathank-dev/portfolio) · [Live](https://meganathank.vercel.app)                                   |
-| ☕ **Modern Cafe Website**    | Responsive cafe landing page           | [Source](https://github.com/meganathank-dev/rosewood-brew-boutique-cafe) · [Live](https://rosewood-brew-boutique-cafe.vercel.app) |
-| 🍔 **Food App UI**           | Food application UI/UX design          | [Figma](https://www.figma.com/proto/qQLqUEvRHeWZq7qeKwapA9/Food-App?node-id=0-1&t=NoYZngfL1Q6H9SpA-1)                             |
+### ⚡ FlowForge AI
+
+AI-powered project management platform with intelligent automation and AI-driven recommendations.
+
+`MERN Stack` · `AI`
+
+**🚧 Actively Developing**
+
+---
+
+### 🎓 Engineering College Result Portal
+
+MERN-based college result publishing and student result management system.
+
+`MongoDB` · `Express` · `React` · `Node.js`
+
+<a href="https://college-result-portal-bay.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+---
+
+### 🌐 Personal Portfolio
+
+Responsive personal portfolio showcasing my skills, projects and development journey.
+
+`HTML` · `CSS` · `JavaScript`
+
+<a href="https://meganathank.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+---
+
+### ☕ Modern Cafe Website
+
+Modern responsive cafe landing page designed with a clean visual interface.
+
+`HTML` · `CSS`
+
+<a href="https://rosewood-brew-boutique-cafe.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+---
+
+### 🍔 Food App UI
+
+Food application interface designed in Figma with a focus on usability and visual design.
+
+`Figma` · `UI/UX`
+
+<a href="https://www.figma.com/proto/qQLqUEvRHeWZq7qeKwapA9/Food-App?node-id=0-1&t=NoYZngfL1Q6H9SpA-1">
+<img src="https://img.shields.io/badge/View_Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</a>
 
 </div>
 
@@ -93,40 +138,36 @@ I enjoy building practical web applications and continuously improving my develo
 
 ## 💼 Internship Experience
 
-| Organization                 | Role                       | Duration          |
-| ---------------------------- | -------------------------- | ----------------- |
-| **IMAGECON India Pvt. Ltd.** | Python Internship          | Jul 2025          |
-| **NoviTech R&D Pvt. Ltd.**   | Full Stack Development     | Aug–Sep 2025      |
-| **NoviTech R&D Pvt. Ltd.**   | UI/UX Design               | Aug–Sep 2025      |
-| **NoviTech R&D Pvt. Ltd.**   | MERN Stack                 | Sep–Dec 2025      |
-| **Aalan Infotech**           | MERN Stack                 | Dec 2025–Jan 2026 |
-| **Dev Technology Solutions** | Python Web App Development | May–Jun 2026      |
-
-**6 internships · Python · Full Stack · UI/UX · MERN**
-
-### 📜 Internship Certificates
-
-[IMAGECON — Python](./certificates/imagecon-python.jpg) ·
-[NoviTech — Full Stack](./certificates/novitech-fullstack.jpg) ·
-[NoviTech — UI/UX](./certificates/novitech-uiux.jpg)
-
-[NoviTech — MERN](./certificates/novitech-mern.jpg) ·
-[Aalan Infotech — MERN](./certificates/aalan-mern.png) ·
-[Dev Technology Solutions — Python](./certificates/devtech-python.png)
-
----
-
-## 📊 GitHub Analytics
+| Organization | Role | Duration | Certificate |
+|:---|:---|:---:|:---:|
+| **IMAGECON India Pvt. Ltd.** | Python Internship | 10 Days | [View Certificate](./certificates/imagecon-python.jpg) |
+| **NoviTech R&D Pvt. Ltd.** | Full Stack Development | 1 Month | [View Certificate](./certificates/novitech-fullstack.jpg) |
+| **NoviTech R&D Pvt. Ltd.** | UI/UX Design | 1 Month | [View Certificate](./certificates/novitech-uiux.jpg) |
+| **NoviTech R&D Pvt. Ltd.** | MERN Stack | 3 Months | [View Certificate](./certificates/novitech-mern.jpg) |
+| **Aalan Infotech** | MERN Stack | 15 Days | [View Certificate](./certificates/aalan-mern.png) |
+| **Dev Technology Solutions** | Python Web App Development | 15 Days | [View Certificate](./certificates/devtech-python.png) |
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=meganathank-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165">
+**6 Internships · Python · Full Stack · UI/UX · MERN**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meganathank-dev&layout=compact&theme=github_dark&hide_border=true" height="165">
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=meganathank-dev&theme=github-dark-blue&hide_border=true&border_radius=12" alt="GitHub Streak Statistics" />
+
+</div>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=meganathank-dev&theme=github-dark-blue&hide_border=true" height="165">
+<div align="center">
+
+`Contributions` &nbsp;•&nbsp; `Current Streak` &nbsp;•&nbsp; `Longest Streak`
 
 </div>
 
@@ -136,7 +177,7 @@ I enjoy building practical web applications and continuously improving my develo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/meganathank-dev/meganathank-dev/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+<img src="https://raw.githubusercontent.com/meganathank-dev/meganathank-dev/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -144,16 +185,24 @@ I enjoy building practical web applications and continuously improving my develo
 
 <div align="center">
 
-### 🌐 Let's Connect
+## 🌐 Let's Connect
 
-<a href="https://meganathank.vercel.app">Portfolio</a> · <a href="https://linkedin.com/in/meganathan-k">LinkedIn</a> · <a href="mailto:meganathan.k.2027@gmail.com">Email</a> · <a href="https://github.com/meganathank-dev">GitHub</a>
+<br>
+
+<a href="https://meganathank.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel" width="45" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/meganathan-k">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:meganathan.k.2027@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" />
+</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=meganathank-dev&label=Profile%20Views&color=58A6FF&style=flat">
-
-<br><br>
-
-**💡 Building · Learning · Improving**
+**Building · Learning · Improving**
 
 </div>
