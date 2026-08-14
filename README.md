@@ -2,7 +2,7 @@
 
 ### CSE Student | MERN Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&duration=3000\&pause=1000\&center=true\&vCenter=true\&width=600\&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Building+FlowForge+AI;Learning+and+building+real-world+applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&duration=3000\&pause=1000\&center=true\&vCenter=true\&width=600\&lines=MERN+Stack+Developer;Building+FlowForge+AI;Learning+and+building+real-world+applications)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/meganathank-dev">
