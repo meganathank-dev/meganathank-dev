@@ -52,7 +52,8 @@
     </td>
     <td align="center" width="50%">
       <strong>Deployment</strong><br /><br />
-      <img src="https://skillicons.dev/icons?i=vercel,render" alt="Vercel and Render" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7" alt="Render" />
     </td>
   </tr>
 </table>
