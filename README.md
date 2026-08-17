@@ -13,124 +13,98 @@
   </p>
 </div>
 
-About Me
+## About Me
 
-🎓 B.E. Computer Science and Engineering student at The Kavery Engineering College (2023–2027)
+- 🎓 B.E. Computer Science and Engineering student at **The Kavery Engineering College** (2023–2027)
+- 💻 Focused on building complete web applications with **MongoDB, Express.js, React and Node.js**
+- 🚀 Currently developing **FlowForge AI**, an AI-assisted workspace for software-development teams
+- 🌱 Strengthening my skills in JavaScript, React, backend architecture and problem solving
+- 🎨 Interested in clean interfaces, responsive design and practical user experiences
+- 🤝 Open to internships, full-stack opportunities and meaningful collaborations
 
-💻 Focused on building complete web applications with MongoDB, Express.js, React and Node.js
+## Technology Stack
 
-🚀 Currently developing FlowForge AI, an AI-assisted workspace for software-development teams
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>Languages</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=js,python" alt="JavaScript and Python" />
+    </td>
+    <td align="center" width="50%">
+      <strong>Frontend</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML5, CSS3 and React" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Backend</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js" />
+    </td>
+    <td align="center" width="50%">
+      <strong>Databases</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Tools</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Git, GitHub, VS Code, Postman and Figma" />
+    </td>
+    <td align="center" width="50%">
+      <strong>Deployment</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=vercel,render" alt="Vercel and Render" />
+    </td>
+  </tr>
+</table>
 
-🌱 Strengthening my skills in JavaScript, React, backend architecture and problem solving
+## Currently Building
 
-🎨 Interested in clean interfaces, responsive design and practical user experiences
-
-🤝 Open to internships, full-stack opportunities and meaningful collaborations
-
-Technology Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode,postman,figma,vercel&perline=9" alt="JavaScript, Python, HTML, CSS, React, Tailwind CSS, Bootstrap, Node.js, Express.js, MongoDB, MySQL, Git, GitHub, VS Code, Postman, Figma and Vercel" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7" alt="Render" />
-  <img src="https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/JWT-0F172A?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-</div>
-
-Currently Building
-
-FlowForge AI
+### FlowForge AI
 
 An AI-assisted project-management workspace for software-development organizations, built as a JavaScript MERN monorepo. The project is actively being developed and is not yet deployed publicly.
 
-React Vite Tailwind CSS Node.js Express.js MongoDB Zustand
+`React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Zustand`
 
 <a href="https://github.com/meganathank-dev/flowforge-ai"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View FlowForge AI repository" /></a>
 <img src="https://img.shields.io/badge/Status-In_Development-F59E0B?style=for-the-badge" alt="Status: In development" />
 
-Featured Projects
+## Featured Projects
 
-Project
+| Project | What it demonstrates | Links |
+| --- | --- | --- |
+| **FlowForge AI** | JavaScript MERN monorepo for an AI-assisted software-team workspace; actively under development | [Repository](https://github.com/meganathank-dev/flowforge-ai) |
+| **College Result Portal** | Full-stack result-management system with role-based access, mark workflows, GPA/CGPA processing and PDF export | [Repository](https://github.com/meganathank-dev/college-result-portal) · [Live](https://college-result-portal-bay.vercel.app) |
+| **Personal Portfolio** | Responsive portfolio presenting projects, experience and technical skills | [Repository](https://github.com/meganathank-dev/portfolio) · [Live](https://meganathank.vercel.app) |
+| **Rosewood Brew Café** | Responsive café landing page with a clean, brand-focused user interface | [Repository](https://github.com/meganathank-dev/rosewood-brew-boutique-cafe) · [Live](https://rosewood-brew-boutique-cafe.vercel.app) |
 
-What it demonstrates
-
-Links
-
-FlowForge AI
-
-JavaScript MERN monorepo for an AI-assisted software-team workspace; actively under development
-
-Repository
-
-College Result Portal
-
-Full-stack result-management system with role-based access, mark workflows, GPA/CGPA processing and PDF export
-
-Repository · Live
-
-Personal Portfolio
-
-Responsive portfolio presenting projects, experience and technical skills
-
-Repository · Live
-
-Rosewood Brew Café
-
-Responsive café landing page with a clean, brand-focused user interface
-
-Repository · Live
-
-GitHub Activity
+## GitHub Activity
 
 <div align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/meganathank-dev/meganathank-dev/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Meganathan's public GitHub profile details" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meganathank-dev&theme=github_dark&animation=load&duration=3" alt="Meganathan's public GitHub profile details" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/meganathank-dev/meganathank-dev/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Languages across Meganathan's public repositories" />
-  <img width="49%" src="https://raw.githubusercontent.com/meganathank-dev/meganathank-dev/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Meganathan's public GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meganathank-dev&theme=github_dark&animation=load&duration=3" alt="Languages across Meganathan's public repositories" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meganathank-dev&theme=github_dark&animation=load&duration=3" alt="Meganathan's public GitHub statistics" />
 </div>
 
-These animated cards are regenerated daily from GitHub's authenticated API. The language card measures public repository composition, not proficiency.
+> These animated cards use public GitHub data. The language card measures public repository composition, not proficiency.
 
-Experience Highlights
+## Experience Highlights
 
-Organization
+| Organization | Role | Duration |
+| --- | --- | --- |
+| **Aalan Infotech** | MERN Stack Intern | 16 Dec 2025 – 03 Jan 2026 |
+| **NoviTech R&D Pvt. Ltd.** | MERN Stack Intern | 20 Sep 2025 – 20 Dec 2025 |
+| **NoviTech R&D Pvt. Ltd.** | Full Stack Development Intern | 19 Aug 2025 – 19 Sep 2025 |
+| **IMAGECON India Pvt. Ltd.** | Python Intern | 02 Jul 2025 – 11 Jul 2025 |
 
-Role
-
-Duration
-
-Aalan Infotech
-
-MERN Stack Intern
-
-16 Dec 2025 – 03 Jan 2026
-
-NoviTech R&D Pvt. Ltd.
-
-MERN Stack Intern
-
-20 Sep 2025 – 20 Dec 2025
-
-NoviTech R&D Pvt. Ltd.
-
-Full Stack Development Intern
-
-19 Aug 2025 – 19 Sep 2025
-
-IMAGECON India Pvt. Ltd.
-
-Python Intern
-
-02 Jul 2025 – 11 Jul 2025
-
-Contribution Journey
+## Contribution Journey
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meganathank-dev/meganathank-dev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meganathank-dev/meganathank-dev/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="Animated contribution snake" src="https://raw.githubusercontent.com/meganathank-dev/meganathank-dev/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meganathank-dev/meganathank-dev/gh-pages/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meganathank-dev/meganathank-dev/gh-pages/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Animated contribution snake" src="https://raw.githubusercontent.com/meganathank-dev/meganathank-dev/gh-pages/github-contribution-grid-snake.svg" />
 </picture>
 
 <div align="center">
