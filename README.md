@@ -95,9 +95,11 @@ An AI-assisted project-management workspace for software-development organizatio
 
 | Organization | Role | Duration |
 | --- | --- | --- |
+| **Dev Technology Solutions** | Python Web App Development Intern | 25 May 2026 – 11 Jun 2026 |
 | **Aalan Infotech** | MERN Stack Intern | 16 Dec 2025 – 03 Jan 2026 |
 | **NoviTech R&D Pvt. Ltd.** | MERN Stack Intern | 20 Sep 2025 – 20 Dec 2025 |
 | **NoviTech R&D Pvt. Ltd.** | Full Stack Development Intern | 19 Aug 2025 – 19 Sep 2025 |
+| **NoviTech R&D Pvt. Ltd.** | UI/UX Design Intern | 19 Aug 2025 – 19 Sep 2025 |
 | **IMAGECON India Pvt. Ltd.** | Python Intern | 02 Jul 2025 – 11 Jul 2025 |
 
 ## Contribution Journey
