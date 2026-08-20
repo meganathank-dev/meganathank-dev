@@ -78,19 +78,6 @@ An AI-assisted project-management workspace for software-development organizatio
 | **Personal Portfolio** | Responsive portfolio presenting projects, experience and technical skills | [Repository](https://github.com/meganathank-dev/portfolio) · [Live](https://meganathank.vercel.app) |
 | **Rosewood Brew Café** | Responsive café landing page with a clean, brand-focused user interface | [Repository](https://github.com/meganathank-dev/rosewood-brew-boutique-cafe) · [Live](https://rosewood-brew-boutique-cafe.vercel.app) |
 
-## GitHub Activity
-
-<div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meganathank-dev&theme=github_dark&animation=load&duration=3" alt="Meganathan's public GitHub profile details" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meganathank-dev&theme=github_dark&animation=load&duration=3" alt="Languages across Meganathan's public repositories" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meganathank-dev&theme=github_dark&animation=load&duration=3" alt="Meganathan's public GitHub statistics" />
-</div>
-
-> These animated cards use public GitHub data. The language card measures public repository composition, not proficiency.
-
 ## Experience Highlights
 
 | Organization | Role | Duration |
