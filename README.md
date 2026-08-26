@@ -88,43 +88,6 @@ An interactive program-execution visualization platform that helps users underst
 
 `React` `JavaScript` `Vite` `Node.js` `Express.js` `MongoDB` `pnpm Workspace`
 
-#### Core Architecture
-
-```text
-Source Code
-      ↓
-Language Adapter
-      ↓
-Execution Runtime
-      ↓
-Standardized Trace
-      ↓
-State Reconstruction
-      ↓
-Visualization
-      ↓
-Timeline and Animation
-```
-
-JavaScript, Python and Java use **program-execution traces**, while SQL uses a **specialized logical-query trace**.
-
-#### Project Structure
-
-```text
-apps/
-├── web/
-├── api/
-└── execution/
-
-packages/
-├── config/
-├── execution-trace/
-└── visualizer-core/
-
-docs/
-pocs/
-```
-
 <a href="https://github.com/meganathank-dev/codeflow-visualizer">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View CodeFlow Visualizer repository" />
 </a>
