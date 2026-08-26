@@ -17,7 +17,7 @@
 
 - 🎓 B.E. Computer Science and Engineering student at **The Kavery Engineering College** (2023–2027)
 - 💻 Focused on building complete web applications with **MongoDB, Express.js, React and Node.js**
-- 🚀 Currently developing **FlowForge AI**, an AI-assisted workspace for software-development teams
+- 🚀 Currently developing **DevOrbia**, an AI-assisted workspace for software-development teams
 - 🌱 Strengthening my skills in JavaScript, React, backend architecture and problem solving
 - 🎨 Interested in clean interfaces, responsive design and practical user experiences
 - 🤝 Open to internships, full-stack opportunities and meaningful collaborations
@@ -73,7 +73,7 @@ An AI-assisted project-management workspace for software-development organizatio
 
 | Project | What it demonstrates | Links |
 | --- | --- | --- |
-| **FlowForge AI** | JavaScript MERN monorepo for an AI-assisted software-team workspace; actively under development | [Repository](https://github.com/meganathank-dev/flowforge-ai) |
+| **DevOrbia** | JavaScript MERN monorepo for an AI-assisted software-team workspace; actively under development | [Repository](https://github.com/meganathank-dev/devorbia) |
 | **College Result Portal** | Full-stack result-management system with role-based access, mark workflows, GPA/CGPA processing and PDF export | [Repository](https://github.com/meganathank-dev/college-result-portal) · [Live](https://college-result-portal-bay.vercel.app) |
 | **Personal Portfolio** | Responsive portfolio presenting projects, experience and technical skills | [Repository](https://github.com/meganathank-dev/portfolio) · [Live](https://meganathank.vercel.app) |
 | **Rosewood Brew Café** | Responsive café landing page with a clean, brand-focused user interface | [Repository](https://github.com/meganathank-dev/rosewood-brew-boutique-cafe) · [Live](https://rosewood-brew-boutique-cafe.vercel.app) |
