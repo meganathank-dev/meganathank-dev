@@ -118,18 +118,15 @@ An interactive program-execution visualization platform that helps users underst
 
 <div align="center">
 
-### GitHub Activity
+### GitHub Contributions
 
 <a href="https://github.com/meganathank-dev">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meganathank-dev&bg_color=0F172A&color=60A5FA&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Meganathan K GitHub contribution activity graph" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=meganathank-dev&theme=dark&hide_border=true&background=0F172A&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA"
+    height="165"
+    alt="GitHub contribution streak"
+  />
 </a>
-
-<br />
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=meganathank-dev&show_icons=true&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=FFFFFF&icon_color=60A5FA&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meganathank-dev&theme=dark&hide_border=true&background=0F172A&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA" height="165" alt="GitHub contribution streak" />
-</p>
 
 <br />
 
@@ -150,6 +147,15 @@ An interactive program-execution visualization platform that helps users underst
     alt="GitHub contribution calendar snake animation"
   />
 </picture>
+
+<br />
+
+<a href="https://github.com/meganathank-dev">
+  <img
+    src="https://img.shields.io/badge/View_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="View GitHub profile"
+  />
+</a>
 
 </div>
 
