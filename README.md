@@ -160,6 +160,8 @@ An interactive program-execution visualization platform that helps users underst
   Explore my projects, share feedback or connect with me for a collaboration.
 </p>
 
+<br />
+
 <a href="https://meganathank.vercel.app">
   <img src="https://img.shields.io/badge/Explore_My_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" />
 </a>
