@@ -29,7 +29,7 @@
   <tr>
     <td align="center" width="50%">
       <strong>Languages</strong><br /><br />
-      <img src="https://skillicons.dev/icons?i=js,python,java" alt="JavaScript, Python and Java" />
+      <img src="https://skillicons.dev/icons?i=js,python" alt="JavaScript and Python" />
     </td>
     <td align="center" width="50%">
       <strong>Frontend</strong><br /><br />
