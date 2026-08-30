@@ -18,7 +18,7 @@
 * 🎓 B.E. Computer Science and Engineering student at **The Kavery Engineering College** (2023–2027)
 * 💻 Focused on building complete web applications with **MongoDB, Express.js, React and Node.js**
 * 🚀 Currently developing **DevOrbia**, an AI-assisted workspace for software-development teams
-* 🔬 Building **CodeFlow Visualizer**, an interactive platform for visualizing program and SQL execution step by step
+* 🔬 Built and deployed **CodeFlow Visualizer**, a multi-language platform for visualizing program and SQL execution step by step
 * 🌱 Strengthening my skills in JavaScript, React, backend architecture and problem solving
 * 🎨 Interested in clean interfaces, responsive design and practical user experiences
 * 🤝 Open to internships, full-stack opportunities and meaningful collaborations
@@ -59,7 +59,7 @@
   </tr>
 </table>
 
-## Currently Building
+## Current Projects
 
 ### DevOrbia
 
@@ -78,30 +78,33 @@ An AI-assisted workspace for software-development teams, built as a JavaScript M
 
 > **Run It. Trace It. See It. Understand It.**
 
-An interactive program-execution visualization platform that helps users understand how code and SQL queries execute step by step.
+An interactive multi-language platform that helps users understand how programs and SQL queries execute through verified, step-by-step traces and visualizations.
 
-#### Current Languages
+#### Supported Languages
 
 `JavaScript` `Python` `Java` `SQL`
 
 #### Main Technology
 
-`React` `JavaScript` `Vite` `Node.js` `Express.js` `MongoDB` `pnpm Workspace`
+`React` `JavaScript` `Vite` `Node.js` `Express.js` `MongoDB` `Docker` `pnpm Workspace`
 
+<a href="https://codeflow-visualizer-zeta.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Open CodeFlow Visualizer" />
+</a>
 <a href="https://github.com/meganathank-dev/codeflow-visualizer">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View CodeFlow Visualizer repository" />
 </a>
-<img src="https://img.shields.io/badge/Status-In_Development-F59E0B?style=for-the-badge" alt="Status: In development" />
+<img src="https://img.shields.io/badge/Status-Live-22C55E?style=for-the-badge" alt="Status: Live" />
 
 ## Featured Projects
 
-| Project                   | What it demonstrates                                                                                                        | Links                                                                                                                                 |
-| ------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **DevOrbia**              | AI-assisted software-development workspace built as a JavaScript MERN monorepo                                              | [Repository](https://github.com/meganathank-dev/devorbia)                                                                             |
-| **CodeFlow Visualizer**   | Interactive execution visualization for JavaScript, Python, Java and SQL using standardized traces and state reconstruction | [Repository](https://github.com/meganathank-dev/codeflow-visualizer)                                                                  |
-| **College Result Portal** | Full-stack result-management system with role-based access, mark workflows, GPA/CGPA processing and PDF export              | [Repository](https://github.com/meganathank-dev/college-result-portal) · [Live](https://college-result-portal-bay.vercel.app)         |
-| **Personal Portfolio**    | Responsive portfolio presenting projects, experience and technical skills                                                   | [Repository](https://github.com/meganathank-dev/portfolio) · [Live](https://meganathank.vercel.app)                                   |
-| **Rosewood Brew Café**    | Responsive café landing page with a clean, brand-focused user interface                                                     | [Repository](https://github.com/meganathank-dev/rosewood-brew-boutique-cafe) · [Live](https://rosewood-brew-boutique-cafe.vercel.app) |
+| Project                   | What it demonstrates                                                                                                        | Links                                                                                                                         |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **CodeFlow Visualizer**   | Multi-language execution visualization using standardized traces and state reconstruction                                  | [Live](https://codeflow-visualizer-zeta.vercel.app/) · [Repository](https://github.com/meganathank-dev/codeflow-visualizer)    |
+| **DevOrbia**              | AI-assisted software-development workspace built as a JavaScript MERN monorepo                                              | [Repository](https://github.com/meganathank-dev/devorbia)                                                                     |
+| **College Result Portal** | Full-stack result-management system with role-based access, mark workflows, GPA/CGPA processing and PDF export              | [Live](https://college-result-portal-bay.vercel.app) · [Repository](https://github.com/meganathank-dev/college-result-portal) |
+| **Personal Portfolio**    | Responsive portfolio presenting projects, experience and technical skills                                                   | [Live](https://meganathank.vercel.app) · [Repository](https://github.com/meganathank-dev/portfolio)                           |
+| **Rosewood Brew Café**    | Responsive café landing page with a clean, brand-focused user interface                                                     | [Live](https://rosewood-brew-boutique-cafe.vercel.app) · [Repository](https://github.com/meganathank-dev/rosewood-brew-boutique-cafe) |
 
 ## Experience Highlights
 
